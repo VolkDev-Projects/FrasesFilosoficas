@@ -1,0 +1,77 @@
+<resources>
+    <!--Nietzsche-->
+    <string name="app_name"></string>
+    <string name="a_0">Deus está morto!</string>
+    <string name="a_1">A vida vai ficando cada vez mais dura perto do topo.</string>
+    <string name="a_2">As convicções são inimigas mais perigosas da verdade do que as mentiras.</string>
+    <string name="a_3">A vontade de superar um afeto não é, em última análise, senão vontade de um outro ou de vários outros afetos.</string>
+    <string name="a_4">Temos a arte para não morrer da verdade.</string>
+    <string name="a_5">Torna-te aquilo que és.</string>
+    <string name="a_6">Tudo é precioso para aquele que foi, por muito tempo, privado de tudo.</string>
+    <string name="a_7">Quem, em prol da sua boa reputação, não se sacrificou já uma vez – a si próprio?</string>
+    <string name="a_8">É pelas próprias virtudes que se é mais bem castigado.</string>
+    <string name="a_9">A vida mais doce é não pensar em nada.</string>
+    <string name="a_10">Logo que comunicamos os nossos conhecimentos, deixamos de gostar deles suficientemente.</string>
+
+    <!--Socrates-->
+    <string name="b_0">Uma vida sem desafios não vale a pena ser vivida.</string>
+    <string name="b_1">Aquilo que não puderes controlar, não ordenes.</string>
+    <string name="b_2">A maneira mais fácil e mais segura de vivermos honradamente consiste em sermos, na realidade, o que parecemos ser.</string>
+    <string name="b_3">A alegria da alma constitui os belos dias da vida, seja qual for a época.</string>
+    <string name="b_4">O caminho mais grandioso para viver com honra neste mundo é ser a pessoa que fingimos ser.</string>
+    <string name="b_5">Sábio é aquele que conhece os limites da própria ignorância.</string>
+    <string name="b_6">Sob a direção de um forte general, não haverá jamais soldados fracos.</string>
+    <string name="b_7">Só sei que nada sei.</string>
+    <string name="b_8">Deve-se temer mais o amor de uma mulher do que o ódio de um homem.</string>
+    <string name="b_9">Quem não pensa, é pensado pelos outros.</string>
+    <string name="b_10">Tome cuidado com o vazio de uma vida ocupada demais!</string>
+
+
+    <!--Pitagoras-->
+    <string name="c_0">Frase 1.</string>
+    <string name="c_1">Frase 2.</string>
+    <string name="c_2">Frase 3</string>
+    <string name="c_3">Frase 4.</string>
+    <string name="c_4">Frase 5.</string>
+    <string name="c_5">Frase 6.</string>
+    <string name="c_6">Frase 7.</string>
+    <string name="c_7">Frase 8.</string>
+    <string name="c_8">Frase 9.</string>
+    <string name="c_9">Frase 10.</string>
+    <string name="c_10">Frase 11</string>
+
+    <!--Proximo Activity 4-->
+
+    <string name="d_0">Frase 1.</string>
+    <string name="d_1">Frase 2.</string>
+    <string name="d_2">Frase 3</string>
+    <string name="d_3">Frase 4.</string>
+    <string name="d_4">Frase 5.</string>
+    <string name="d_5">Frase 6.</string>
+    <string name="d_6">Frase 7.</string>
+    <string name="d_7">Frase 8.</string>
+    <string name="d_8">Frase 9.</string>
+    <string name="d_9">Frase 10.</string>
+    <string name="d_10">Frase 11</string>
+
+    <!--Proximo Activity 5-->
+
+    <string name="e_0">Frase 1.</string>
+    <string name="e_1">Frase 2</string>
+    <string name="e_2">Frase 3</string>
+    <string name="e_3">Frase 4</string>
+    <string name="e_4">Frase 5</string>
+    <string name="e_5">Frase 6.</string>
+    <string name="e_6">Frase 7</string>
+    <string name="e_7">Frase 8</string>
+    <string name="e_8">Frase 9</string>
+    <string name="e_9">Frase 10</string>
+    <string name="e_10">Frase 11.</string>
+
+    <!--Proximo Activity 6-->
+
+
+
+
+
+</resources>
